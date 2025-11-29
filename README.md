@@ -6,9 +6,7 @@ terenkripsi, dan hanya bisa dibuka menggunakan file `secret.key`.
 
 ## 🖼️ Tampilan Screenshot Aplikasi
 
-(Ganti file screenshot sesuai kebutuhan) -
-`screenshots/menu-utama.png` - `screenshots/tambah-password.png` -
-`screenshots/liat-password.png`
+`/menu-menu.png` 
 
 ## 🚀 Cara Instalasi & Menjalankan Project
 
@@ -58,11 +56,6 @@ python main.py
     ├── requirements.txt
     └── screenshots/
 
-## ⚠️ .gitignore
-
-    passwords.db
-    secret.key
-    __pycache__/
 
 ## 🛠️ Troubleshooting
 
