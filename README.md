@@ -6,7 +6,7 @@ terenkripsi, dan hanya bisa dibuka menggunakan file `secret.key`.
 
 ## 🖼️ Tampilan Screenshot Aplikasi
 
-`/menu-menu.png` 
+`/main-menu.png` 
 
 ## 🚀 Cara Instalasi & Menjalankan Project
 
